@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T04:59:31.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="nAHzVMky4wOiO8NZkIoN" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T07:16:12.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Of4j6BUJ0DkBJWbcOpoJ" version="14.5.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="9" y="2710" width="810" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="9" y="2400" width="810" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="1785" width="810" height="605" as="geometry" />
+        </mxCell>
         <mxCell id="6jBMZ8I1oBQu_9AgyXMn-78" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6jBMZ8I1oBQu_9AgyXMn-67" target="6jBMZ8I1oBQu_9AgyXMn-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="5180" as="sourcePoint" />
@@ -638,6 +647,15 @@
         </mxCell>
         <mxCell id="6jBMZ8I1oBQu_9AgyXMn-106" value="[징수내역]탭을 입력" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="2430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-109" value="&lt;b&gt;상단 탭 중 3번째 &lt;br&gt;&amp;lt;과태료&amp;gt; 탭 내용&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1800" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-111" value="&lt;b&gt;상단 탭 중 4번째 &lt;br&gt;&amp;lt;국고귀속&amp;gt; 탭 내용&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="685" y="2650" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-113" value="&lt;b&gt;상단 탭 중 5번째 &lt;br&gt;&amp;lt;국고보조금&amp;gt; 탭 내용&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="27.5" y="2720" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
