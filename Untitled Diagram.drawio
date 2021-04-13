@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T04:12:19.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="0XZcOrGZN_1r0b3VGHIf" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T04:59:31.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="nAHzVMky4wOiO8NZkIoN" version="14.5.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,6 +342,9 @@
         <mxCell id="6jBMZ8I1oBQu_9AgyXMn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VF_8aTGz_swJNqBdA8Xl-101" target="6jBMZ8I1oBQu_9AgyXMn-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VF_8aTGz_swJNqBdA8Xl-101" target="6jBMZ8I1oBQu_9AgyXMn-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VF_8aTGz_swJNqBdA8Xl-101" value="3.보전비용등 반환 탭" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="2170" width="150" height="60" as="geometry" />
         </mxCell>
@@ -605,6 +608,36 @@
         </mxCell>
         <mxCell id="6jBMZ8I1oBQu_9AgyXMn-94" value="화면유지" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="616.25" y="5745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6jBMZ8I1oBQu_9AgyXMn-96" target="6jBMZ8I1oBQu_9AgyXMn-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-96" value="[반환명령]탭을 입력" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="615" y="2180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-99" value="[반환대상]추가해야 입력가능" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="2160" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6jBMZ8I1oBQu_9AgyXMn-100" target="6jBMZ8I1oBQu_9AgyXMn-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-100" value="[납부내역]탭을 입력" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="615" y="2243" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6jBMZ8I1oBQu_9AgyXMn-102" target="6jBMZ8I1oBQu_9AgyXMn-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-102" value="[징수위탁]탭을 입력" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="615" y="2308" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6jBMZ8I1oBQu_9AgyXMn-104" target="6jBMZ8I1oBQu_9AgyXMn-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-104" value="[위탁내역]탭을 입력" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="615" y="2370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6jBMZ8I1oBQu_9AgyXMn-106" value="[징수내역]탭을 입력" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="615" y="2430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
